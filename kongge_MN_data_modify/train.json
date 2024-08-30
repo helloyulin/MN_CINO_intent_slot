@@ -1,0 +1,2339 @@
+[
+    {
+        "text": "ᠨᠠᠮ᠎ᠠ᠎ᠶ᠋ᠢ ᠬᠠᠪᠰᠤᠷᠴᠤ uc᠎ᠢ᠋ ᠨᠡᠭᠡᠭᠡᠭᠡᠷᠡᠢ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "uc᠎ᠢ᠋ ᠨᠡᠭᠡᠭᠡᠭᠡᠷᠡᠢ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ᠎ᠦ᠌ ᠭᠡᠷ ᠡᠷᠦᠬᠡ᠎ᠪᠡᠨ ᠰᠡᠬᠦᠬᠦ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ᠎ᠦ᠌ ᠭᠡᠷ"
+        }
+    },
+    {
+        "text": "ᠬᠥᠮᠦᠨ ᠡᠷᠢᠵᠦ ᠥᠭᠭᠦᠭᠡᠴᠢ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠬᠥᠮᠦᠨ"
+        }
+    },
+    {
+        "text": "ᠸᠢᠴᠠᠲ ᠨᠡᠭᠡᠭᠡᠬᠦ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠸᠢᠴᠠᠲ"
+        }
+    },
+    {
+        "text": "ᠯᠢ ᠢᠦᠢ ᠪᠢ ᠳᠤᠮᠳᠠᠳᠤ᠎ᠶ᠋ᠢᠨ ᠰᠢᠳᠡᠷ᠎ᠡ᠎ᠶ᠋ᠢᠨ ᠨᠠᠭᠠᠳᠤᠮ᠎ᠢ᠋ᠶ᠋ᠠᠷ ᠨᠠᠭᠠᠳᠤᠶ᠎ᠠ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠳᠤᠮᠳᠠᠳᠤ᠎ᠶ᠋ᠢᠨ ᠰᠢᠳᠡᠷ᠎ᠡ᠎ᠶ᠋ᠢᠨ"
+        }
+    },
+    {
+        "text": "qq ᠢ ᠨᠡᠬᠡᠭᠡᠳ ᠠᠯᠢ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "qq"
+        }
+    },
+    {
+        "text": "ᠭᠣᠶᠣ ᠨᠣᠬᠠᠢ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠭᠡᠭᠡᠵᠦ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ ᠪᠣᠯᠤᠨ᠎ᠠ ᠤᠤ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠭᠣᠶᠣ ᠨᠣᠬᠠᠢ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ"
+        }
+    },
+    {
+        "text": "ᠪᠠᠢ ᠳᠦ ᠬᠠᠢᠭᠤᠷ᠎ᠢ᠋ ᠨᠡᠭᠡᠭᠡᠬᠦ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠪᠠᠢ ᠳᠦ ᠬᠠᠢᠭᠤᠷ᠎ᠢ᠋"
+        }
+    },
+    {
+        "text": "ᠭᠠᠷ ᠤᠲᠠᠰᠤᠨ᠎ᠤ᠋ ᠰᠢᠭᠦᠬᠦ ᠠᠯᠪᠠᠨ ᠬᠡᠷᠡᠭᠰᠡᠯ",
+        "domain": "app",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠰᠢᠭᠦᠬᠦ ᠠᠯᠪᠠᠨ ᠬᠡᠷᠡᠭᠰᠡᠯ"
+        }
+    },
+    {
+        "text": "ᠺᠠᠢ ᠯᠢ ᠳᠧ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠳᠧ"
+        }
+    },
+    {
+        "text": "ᠰᠡᠭᠦᠳᠡᠷᠯᠡᠬᠦ ᠮᠠᠰᠢᠨ᠎ᠢ᠋ ᠨᠡᠬᠡᠭᠡᠳ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠰᠡᠭᠦᠳᠡᠷᠯᠡᠬᠦ"
+        }
+    },
+    {
+        "text": "qqq ᠢᠵᠢᠯ ᠠᠯᠬᠤᠮᠲᠤ ᠬᠠᠪᠰᠤᠷᠤᠭᠴᠢ᠎ᠶ᠋ᠢ ᠨᠡᠭᠡᠭᠡᠬᠦ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "qqq ᠢᠵᠢᠯ ᠠᠯᠬᠤᠮᠲᠤ ᠬᠠᠪᠰᠤᠷᠤᠭᠴᠢ᠎ᠶ᠋ᠢ"
+        }
+    },
+    {
+        "text": "ᠲᠤᠤ ᠪᠤᠤ ᠪᠠᠷᠠᠭ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ᠲᠤᠤ ᠪᠤᠤ ᠪᠠᠷᠠᠭ᠎ᠠ"
+        }
+    },
+    {
+        "text": "ᠨᠠᠳᠠ ᠸᠧᠢᠪ ᠲᠠᠮᠠᠷ ᠣᠯᠵᠤ ᠥᠭᠭᠦᠭᠡᠷᠡᠢ",
+        "domain": "app",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠲᠠᠮᠠᠷ"
+        }
+    },
+    {
+        "text": "ucᠬᠣᠶᠠᠷ ᠡᠭᠦᠳᠡ᠎ᠶ᠋ᠢ ᠨᠡᠭᠡᠭᠡᠴᠢᠬᠡ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "ucᠬᠣᠶᠠᠷ ᠡᠭᠦᠳᠡ᠎ᠶ᠋ᠢ"
+        }
+    },
+    {
+        "text": "qqq ᠨᠡᠭᠡᠭᠡᠬᠦ",
+        "domain": "app",
+        "intent": "LAUNCH",
+        "slots": {
+            "name": "qqq"
+        }
+    },
+    {
+        "text": "ᠰᠢᠦᠢ ᠴᠠᠩ᠎ᠤ᠋ᠨ ᠵᠦᠩ ᠱᠠᠨ ᠬᠦᠷᠬᠦ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ᠎ᠶ᠋ᠢ ᠰᠤᠷᠠᠭᠯᠠᠪᠠ",
+        "domain": "bus",
+        "intent": "QUERY",
+        "slots": {
+            "Dest": "ᠱᠠᠨ",
+            "Src": "ᠰᠢᠦᠢ"
+        }
+    },
+    {
+        "text": "ᠥᠰᠢ᠎ᠡᠴᠡ ᠹᠦ ᠶᠠᠩ ᠬᠦᠷᠲᠡᠯ᠎ᠡ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ᠎ᠳ᠋ᠦ᠍ ᠰᠠᠭᠤᠬᠤ ᠪᠣᠢ",
+        "domain": "bus",
+        "intent": "QUERY",
+        "slots": {
+            "Dest": "ᠮᠠᠰᠢᠨ",
+            "Src": "ᠮᠠᠰᠢᠨ"
+        }
+    },
+    {
+        "text": "ᠱᠸᠨᠵᠸᠨ᠎ᠳ᠋ᠦ᠍ ᠣᠴᠢᠬᠤ᠎ᠳ᠋ᠤ᠌ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠲᠡᠷᠭᠡᠨ᠎ᠳ᠋ᠦ᠍ ᠰᠠᠭᠤᠬᠤ ᠪᠣᠢ",
+        "domain": "map",
+        "intent": "ROUTE",
+        "slots": {
+            "endLoc_city": "︖"
+        }
+    },
+    {
+        "text": "ᠨᠠᠨᠵᠢᠩ᠎ᠠ᠋ᠴᠠ ᠬᠤᠸᠠᠩ ᠱᠠᠨ ᠬᠦᠷᠬᠦ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ",
+        "domain": "bus",
+        "intent": "QUERY",
+        "slots": {
+            "Dest": "ᠬᠤᠸᠠᠩ ᠱᠠᠨ",
+            "Src": "ᠨᠠᠨᠵᠢᠩ᠎ᠠ᠋ᠴᠠ ᠬᠤᠸᠠᠩ"
+        }
+    },
+    {
+        "text": "ᠥᠰᠢ ᠬᠣᠲᠠ᠎ᠠ᠋ᠴᠠ ᠱ᠋ᠢ ᠠᠨ ᠬᠣᠲᠠ ᠬᠦᠷᠬᠦ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ",
+        "domain": "bus",
+        "intent": "QUERY",
+        "slots": {
+            "Dest": "ᠠᠨ ᠬᠣᠲᠠ ᠬᠦᠷᠬᠦ",
+            "Src": "ᠬᠣᠲᠠ"
+        }
+    },
+    {
+        "text": "ᠾᠧᠹᠧᠢ᠎ᠳ᠋ᠦ᠍ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠨᠠᠨᠵᠢᠩ᠎ᠳ᠋ᠤ᠌ ᠣᠴᠢᠬᠤᠶᠤᠮ",
+        "domain": "bus",
+        "intent": "QUERY",
+        "slots": {
+            "Dest": "ᠨᠠᠨᠵᠢᠩ᠎ᠳ᠋ᠤ᠌ ᠣᠴᠢᠬᠤᠶᠤᠮ",
+            "Src": "ᠾᠧᠹᠧᠢ᠎ᠳ᠋ᠦ᠍"
+        }
+    },
+    {
+        "text": "ᠪᠡᠭᠡᠵᠢᠩ᠎ᠡᠴᠡ ᠴᠧᠩᠳᠦ᠋ ᠬᠦᠷᠬᠦ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ᠎ᠦ᠌ ᠴᠠᠭ᠎ᠤ᠋ᠨ ᠬᠦᠰᠦᠨᠦᠭᠲᠦ",
+        "domain": "bus",
+        "intent": "QUERY",
+        "slots": {
+            "Dest": "ᠴᠧᠩᠳᠦ᠋",
+            "Src": "ᠪᠡᠭᠡᠵᠢᠩ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠳᠠᠢᠢᠵᠧᠦ᠎ᠡᠴᠡ ᠵᠢᠨᠬᠤᠸᠠ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ",
+        "domain": "bus",
+        "intent": "QUERY",
+        "slots": {
+            "Dest": "ᠵᠢᠨᠬᠤᠸᠠ᠎ᠳ᠋ᠤ᠌",
+            "Src": "ᠳᠠᠢᠢᠵᠧᠦ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ᠎ᠦ᠌ ᠪᠢᠯᠧᠲ ᠠᠪᠴᠤ ᠥᠭᠴᠦ ᠪᠣᠯᠤᠨ᠎ᠠ ᠤᠤ",
+        "domain": "train",
+        "intent": "QUERY",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠯᠧᠢ ᠳᠢ ᠪᠦᠸᠧ ᠡᠯ ᠺᠢᠨᠣ᠎ᠶ᠋ᠢᠨ ᠣᠷᠳᠣᠨ᠎ᠤ᠋ ᠬᠠᠮᠤᠭ ᠰᠢᠨ᠎ᠡ ᠭᠠᠷᠭᠠᠭᠰᠠᠨ ᠲᠣᠮᠣ ᠹᠢᠯᠢᠮ᠎ᠢ᠋ ᠡᠷᠢᠨ᠎ᠡ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {
+            "theatre": "ᠯᠧᠢ ᠳᠢ ᠪᠦᠸᠧ ᠡᠯ ᠺᠢᠨᠣ᠎ᠶ᠋ᠢᠨ ᠣᠷᠳᠣᠨ᠎ᠤ᠋ ᠬᠠᠮᠤᠭ"
+        }
+    },
+    {
+        "text": "ᠨᠠᠳᠠᠳᠤ ᠨᠢᠭᠡ ᠬᠠᠮᠤᠭ᠎ᠤ᠋ᠨ ᠰᠢᠨ᠎ᠡ ᠺᠢᠨᠣ ᠲᠠᠯᠪᠢᠵᠤ ᠥᠭᠬᠦ ᠪᠣᠯᠪᠠᠤ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {}
+    },
+    {
+        "text": "ᠺᠢᠨᠣ ᠨᠡᠩᠵᠢᠨ᠎ᠡ ᠦᠦ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {}
+    },
+    {
+        "text": "ᠾᠧᠹᠧᠢ᠎ᠶ᠋ᠢᠨ ᠵᠡᠭᠦᠨ ᠡᠷᠭᠢ᠎ᠶ᠋ᠢᠨ ᠺᠢᠨᠣ᠎ᠶ᠋ᠢᠨ ᠬᠣᠲᠠ᠎ᠶ᠋ᠢ ᠬᠠᠢᠵᠤ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {
+            "theatre": "ᠾᠧᠹᠧᠢ᠎ᠶ᠋ᠢᠨ ᠵᠡᠭᠦᠨ ᠡᠷᠭᠢ᠎ᠶ᠋ᠢᠨ ᠺᠢᠨᠣ᠎ᠶ᠋ᠢᠨ ᠬᠣᠲᠠ᠎ᠶ᠋ᠢ"
+        }
+    },
+    {
+        "text": "ᠣᠢᠷ᠎ᠠ᠎ᠳ᠋ᠤ᠌ ᠬᠥᠮᠦᠰ᠎ᠦ᠋ᠨ ᠠᠩᠬᠠᠷᠤᠯ᠎ᠢ᠋ ᠲᠠᠲᠠᠭᠰᠠᠨ ᠺᠢᠨᠣ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {}
+    },
+    {
+        "text": "ᠣᠳᠣ ᠺᠢᠨᠣ᠎ᠶ᠋ᠢᠨ ᠣᠷᠳᠣᠨ᠎ᠳ᠋ᠤ᠌ ᠶᠠᠮᠠᠷ ᠰᠠᠢᠨ ᠺᠢᠨᠣ ᠪᠠᠢᠬᠤ ᠪᠣᠢ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_time": "ᠺᠢᠨᠣ"
+        }
+    },
+    {
+        "text": "ᠦ ᠂ ᠬᠠᠮᠤᠭ᠎ᠤ᠋ᠨ ᠰᠢᠨ᠎ᠡ ᠺᠢᠨᠣ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {}
+    },
+    {
+        "text": "ᠨᠠᠳᠠ᠎ᠠ᠋ᠴᠠ ᠬᠠᠮᠤᠭ ᠣᠢᠷ᠎ᠠ ᠺᠢᠨᠣ᠎ᠶ᠋ᠢᠨ ᠣᠷᠳᠣᠨ",
+        "domain": "cinemas",
+        "intent": "QUERY",
+        "slots": {}
+    },
+    {
+        "text": "ᠮᠠ᠋ ᠭᠤᠸᠠᠢ᠎ᠶ᠋ᠢᠨ ᠤᠲᠠᠰᠤ ᠬᠡᠳᠦᠢ ᠪᠣᠢ",
+        "domain": "telephone",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠤᠲᠠᠰᠤ"
+        }
+    },
+    {
+        "text": "ᠵᠢᠭᠠᠰᠤᠨ ᠴᠢᠬᠢ᠎ᠶ᠋ᠢᠨ ᠤᠲᠠᠰᠤᠨ ᠨᠣᠮᠧᠷ᠎ᠢ᠋ ᠰᠢᠦᠢ ᠵᠢᠩ ᠮᠢᠩ᠎ᠳ᠋ᠦ᠍ ᠶᠠᠪᠤᠭᠤᠯᠴᠢᠬ᠎ᠠ",
+        "domain": "message",
+        "intent": "SENDCONTACTS",
+        "slots": {
+            "name": "ᠤᠲᠠᠰᠤᠨ",
+            "receiver": "ᠰᠢᠦᠢ ᠵᠢᠩ ᠮᠢᠩ᠎ᠳ᠋ᠦ᠍"
+        }
+    },
+    {
+        "text": "ᠵᠠᠩ ᠫᠧᠢ ᠳ᠋ᠢᠶᠠᠩᠬᠤᠸᠠ ᠨᠣᠮᠧᠷ ᠨᠢ ᠬᠡᠳᠦᠢ ᠪᠣᠢ",
+        "domain": "telephone",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠵᠠᠩ"
+        }
+    },
+    {
+        "text": "ᡁᠢ ᠯᠢ ᠯᠢ᠎ᠶ᠋ᠢᠨ ᠨᠣᠮᠧᠷ᠎ᠢ᠋ ᠨᠢ ᠪᠠᠢᠴᠠᠭᠠᠵᠤ ᠦᠵᠡ",
+        "domain": "contacts",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᡁᠢ"
+        }
+    },
+    {
+        "text": "ᠯᠢ ᠨᠢᠭᠲᠠᠯᠠᠨ ᠪᠣᠳᠣᠭᠴᠢ᠎ᠶ᠋ᠢ ᠰᠢᠶᠣᠤ ᠵᠢᠶᠠᠩ᠎ᠳ᠋ᠤ᠌ ᠶᠠᠪᠤᠭᠤᠯᠴᠢᠬ᠎ᠠ",
+        "domain": "message",
+        "intent": "SENDCONTACTS",
+        "slots": {
+            "name": "ᠯᠢ ᠨᠢᠭᠲᠠᠯᠠᠨ ᠪᠣᠳᠣᠭᠴᠢ᠎ᠶ᠋ᠢ",
+            "receiver": "ᠰᠢᠶᠣᠤ ᠵᠢᠶᠠᠩ᠎ᠳ᠋ᠤ᠌"
+        }
+    },
+    {
+        "text": "ᠯᠢᠦ ᠷᠦᠩ ᠲᠤᠤ᠎ᠶ᠋ᠢᠨ ᠤᠲᠠᠰᠤ᠎ᠶ᠋ᠢ ᠸᠠᠩ ᠬᠤᠸᠠ ᠴᠧᠩ᠎ᠳ᠋ᠦ᠍ ᠶᠠᠪᠤᠭᠤᠯᠴᠢᠬ᠎ᠠ",
+        "domain": "message",
+        "intent": "SENDCONTACTS",
+        "slots": {
+            "name": "ᠬᠤᠸᠠ",
+            "receiver": "ᠸᠠᠩ ᠬᠤᠸᠠ ᠴᠧᠩ᠎ᠳ᠋ᠦ᠍"
+        }
+    },
+    {
+        "text": "ᠲᠥᠪ ᠬᠣᠷᠢᠶᠠᠨ᠎ᠤ᠋ ᠵᠢᠷᠭᠤᠳᠤᠭᠠᠷ ᠲᠧᠯᠸᠢᠰ ᠮᠠᠷᠭᠠᠰᠢ ᠶᠠᠮᠠᠷ ᠲᠣᠭᠯᠠᠯᠲᠠ ᠭᠠᠷᠭᠠᠨ᠎ᠠ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_date": "ᠮᠠᠷᠭᠠᠰᠢ",
+            "tvchannel": "ᠲᠥᠪ ᠬᠣᠷᠢᠶᠠᠨ᠎ᠤ᠋ ᠵᠢᠷᠭᠤᠳᠤᠭᠠᠷ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠲᠥᠪ ᠲᠧᠯᠸᠢᠰ᠎ᠦ᠋ᠨ ᠭᠤᠷᠪᠠᠳᠤᠭᠠᠷ ᠲᠧᠯᠸᠢᠰ ᠳᠡᠭᠡᠷ᠎ᠡ ᠶᠠᠮᠠᠷ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_time": "ᠲᠧᠯᠸᠢᠰ",
+            "tvchannel": "ᠲᠧᠯᠸᠢᠰ᠎ᠦ᠋ᠨ ᠭᠤᠷᠪᠠᠳᠤᠭᠠᠷ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠣᠳᠣ ᠲᠥᠪ᠎ᠦ᠋ᠨ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠲᠧᠯᠸᠢᠰ ᠬᠣᠷᠢᠶ᠎ᠠ᠎ᠶ᠋ᠢᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ ᠶᠠᠮᠠᠷ ᠰᠢᠦ ᠪᠠᠢᠨ᠎ᠠ ᠤᠤ ︖",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_time": "ᠲᠧᠯᠸᠢᠰ",
+            "tvchannel": "ᠲᠥᠪ᠎ᠦ᠋ᠨ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ"
+        }
+    },
+    {
+        "text": "ᠠᠨᠾᠦ᠋ᠢ᠎ᠶ᠋ᠢᠨ ᠲᠧᠯᠸᠢᠰ ᠬᠣᠷᠢᠶᠠᠨ᠎ᠤ᠋ ᠹᠧᠩ ᠾᠦᠸᠧ ᠵᠢᠶᠠ ᠵᠣᠴᠢᠳ᠎ᠲᠠᠢ ᠠᠭᠤᠯᠵᠠᠵᠤ ᠲᠠᠨᠢᠯᠴᠠᠶ᠎ᠠ",
+        "domain": "epg",
+        "intent": "LOOK_BACK",
+        "slots": {
+            "name": "ᠬᠣᠷᠢᠶᠠᠨ᠎ᠤ᠋ ᠹᠧᠩ ᠾᠦᠸᠧ",
+            "tvchannel": "ᠠᠨᠾᠦ᠋ᠢ᠎ᠶ᠋ᠢᠨ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠲᠧᠯᠸᠢᠰ ᠬᠣᠷᠢᠶ᠎ᠠ᠎ᠶ᠋ᠢ ᠨᠡᠩᠵᠢᠬᠦ ᠶᠠᠮᠠᠷ ᠴᠠᠭ᠎ᠲᠤ᠌ ᠳᠠᠮᠵᠢᠭᠤᠯᠬᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ᠎ᠲᠡᠢ ᠺᠣᠯᠤᠮᠪᠤ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠳᠠᠮᠵᠢᠭᠤᠯᠬᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ᠎ᠲᠡᠢ ᠺᠣᠯᠤᠮᠪᠤ"
+        }
+    },
+    {
+        "text": "ᠬᠤᠨᠠᠨ᠎ᠤ᠋ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ᠎ᠦ᠋ᠨ ᠰᠢᠭᠤᠳ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ᠎ᠶ᠋ᠢ ᠡᠷᠢᠪᠡ",
+        "domain": "tvchannel",
+        "intent": "PLAY",
+        "slots": {
+            "name": "ᠬᠤᠨᠠᠨ᠎ᠤ᠋ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ᠎ᠦ᠋ᠨ ᠰᠢᠭᠤᠳ"
+        }
+    },
+    {
+        "text": "ᠪᠢ ᠬᠠᠷᠢᠭᠠᠳ ᠥᠴᠥᠭᠡᠳᠦᠷ ᠣᠷᠣᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠭᠰᠡᠨ ᠠᠪᠤ ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠬᠤ 31 ᠰᠤᠪᠠᠭ᠎ᠢ᠋ ᠦᠵᠡᠶ᠎ᠡ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_date": "ᠥᠴᠥᠭᠡᠳᠦᠷ ᠣᠷᠣᠢ",
+            "datetime_time": "ᠥᠴᠥᠭᠡᠳᠦᠷ ᠣᠷᠣᠢ",
+            "code": "31",
+            "name": "ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠭᠰᠡᠨ"
+        }
+    },
+    {
+        "text": "ᠬᠡᠵᠢᠶ᠎ᠡ ᠬᠤᠪᠢᠷᠠᠯᠲᠠ ᠶᠡᠬᠡᠲᠡᠢ ᠺᠣᠸᠤᠲᠴᠸᠷ᠎ᠢ᠋ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠣᠯᠬᠤ᠎ᠶ᠋ᠢ ᠪᠠᠢᠴᠠᠭ᠎ᠠ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠶᠡᠬᠡᠲᠡᠢ"
+        }
+    },
+    {
+        "text": "8 ᠴᠠᠭ᠎ᠲᠤ᠌ ᠾᠧᠪᠧᠢ᠎ᠶ᠋ᠢᠨ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ ᠳᠡᠭᠡᠷ᠎ᠡ ᠬᠠᠢᠷ᠎ᠠ ᠳᠤᠷᠠᠯᠠᠯ ᠭᠡᠵᠦ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠯ᠎ᠡ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_time": "8",
+            "name": "ᠳᠤᠷᠠᠯᠠᠯ ᠭᠡᠵᠦ",
+            "tvchannel": "ᠾᠧᠪᠧᠢ᠎ᠶ᠋ᠢᠨ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠣᠳᠣ᠎ᠶ᠋ᠢᠨ ᠬᠥᠮᠦᠰ᠎ᠦ᠋ᠨ ᠠᠩᠬᠠᠷᠤᠯ᠎ᠢ᠋ ᠲᠠᠲᠠᠵᠤ ᠪᠠᠢᠭ᠎ᠠ ᠲᠧᠯᠸᠢᠰ ᠵᠦᠴᠦᠭᠡ ᠨᠢ ᠶᠠᠭᠤ ᠪᠣᠢ",
+        "domain": "video",
+        "intent": "QUERY",
+        "slots": {
+            "category": "ᠲᠧᠯᠸᠢᠰ ᠵᠦᠴᠦᠭᠡ",
+            "popularity": "ᠲᠠᠲᠠᠵᠤ"
+        }
+    },
+    {
+        "text": "ᠥᠴᠥᠭᠡᠳᠦᠷ ᠣᠷᠣᠢ ᠬᠤᠨᠠᠨ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ ᠳᠡᠭᠡᠷ᠎ᠡ ᠶᠠᠭᠤ ᠲᠣᠭᠯᠠᠵᠤ ᠪᠠᠢᠭᠰᠠᠨ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_date": "ᠥᠴᠥᠭᠡᠳᠦᠷ ᠣᠷᠣᠢ",
+            "datetime_time": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠶᠠᠭᠤ",
+            "tvchannel": "ᠣᠷᠣᠢ ᠬᠤᠨᠠᠨ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠲᠥᠪ ᠬᠣᠷᠢᠶᠠᠨ᠎ᠤ᠋ ᠵᠢᠷᠭᠤᠳᠤᠭᠠᠷ ᠲᠧᠯᠸᠢᠰ ᠳᠡᠭᠡᠷ᠎ᠡ ᠶᠠᠮᠠᠷ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ ᠪᠠᠢᠨ᠎ᠠ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "tvchannel": "ᠲᠥᠪ ᠬᠣᠷᠢᠶᠠᠨ᠎ᠤ᠋ ᠵᠢᠷᠭᠤᠳᠤᠭᠠᠷ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠥᠨᠥᠳᠥᠷ ᠶᠠᠮᠠᠷ ᠰᠠᠢᠬᠠᠨ ᠺᠢᠨᠣ ᠦᠵᠡᠬᠦ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "category": "ᠺᠢᠨᠣ",
+            "datetime_date": "ᠥᠨᠥᠳᠥᠷ"
+        }
+    },
+    {
+        "text": "BTV ᠪᠡᠭᠡᠵᠢᠩ᠎ᠦ᠋ᠨ ᠰᠤᠪᠠᠭ ᠮᠤᠭᠤᠢᠳᠠᠳᠠᠭ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠰᠤᠪᠠᠭ",
+            "tvchannel": "BTV ᠪᠡᠭᠡᠵᠢᠩ᠎ᠦ᠋ᠨ ᠰᠤᠪᠠᠭ"
+        }
+    },
+    {
+        "text": "CCTV74 ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ 15᠎ᠳ᠋ᠤ᠌ ᠰᠢᠨ᠎ᠡ ᠨᠠᠢᠷᠠᠭᠤᠯᠬᠤ ᠬᠡᠯᠲᠡᠰ᠎ᠦ᠋ᠨ ᠦᠯᠢᠭᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_date": "ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ 15᠎ᠳ᠋ᠤ᠌ ᠰᠢᠨ᠎ᠡ ᠨᠠᠢᠷᠠᠭᠤᠯᠬᠤ",
+            "name": "ᠰᠢᠨ᠎ᠡ ᠨᠠᠢᠷᠠᠭᠤᠯᠬᠤ ᠬᠡᠯᠲᠡᠰ᠎ᠦ᠋ᠨ ᠦᠯᠢᠭᠡᠷ᠎ᠢ᠋",
+            "tvchannel": "CCTV74"
+        }
+    },
+    {
+        "text": "ᠬᠡᠵᠢᠶ᠎ᠡ ᠪᠠᠷᠠᠭᠤᠨᠰᠢ ᠵᠣᠷᠴᠢᠭᠰᠠᠨ ᠲᠡᠮᠳᠡᠭᠯᠡᠯ ᠪᠠᠢᠬᠤ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠪᠠᠷᠠᠭᠤᠨᠰᠢ ᠵᠣᠷᠴᠢᠭᠰᠠᠨ ᠲᠡᠮᠳᠡᠭᠯᠡᠯ"
+        }
+    },
+    {
+        "text": "ᠭᠠᠷᠠᠭ᠎ᠤ᠋ᠨ ᠵᠢᠷᠭᠤᠭᠠᠨ᠎ᠤ᠋ ᠣᠷᠣᠢ ᠴᠦᠩᠴᠢᠩ᠎ᠦ᠋ᠨ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ ᠳᠡᠭᠡᠷ᠎ᠡ ᠳᠠᠮᠵᠢᠭᠤᠯᠤᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠰᠠᠬᠢᠭᠤᠯᠰᠤᠨ ᠭᠣᠯᠤᠮᠪᠤ ᠪᠠᠢᠨ᠎ᠠ ᠤᠤ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_date": "ᠲᠧᠯᠸᠢᠰ",
+            "datetime_time": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠳᠠᠮᠵᠢᠭᠤᠯᠤᠨ",
+            "name": "ᠳᠠᠮᠵᠢᠭᠤᠯᠤᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠰᠠᠬᠢᠭᠤᠯᠰᠤᠨ ᠭᠣᠯᠤᠮᠪᠤ",
+            "tvchannel": "ᠣᠷᠣᠢ ᠴᠦᠩᠴᠢᠩ᠎ᠦ᠋ᠨ"
+        }
+    },
+    {
+        "text": "ᠪᠠᠶᠠᠷᠲᠠᠢ ᠦᠳᠡᠰᠢᠯᠡᠭᠡ ᠂ ᠶᠡᠬᠡ ᠭᠠᠵᠠᠷ ᠬᠡᠵᠢᠶ᠎ᠡ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "name": "ᠪᠠᠶᠠᠷᠲᠠᠢ ᠦᠳᠡᠰᠢᠯᠡᠭᠡ ᠂ ᠶᠡᠬᠡ ᠭᠠᠵᠠᠷ"
+        }
+    },
+    {
+        "text": "ᠲᠧᠯᠸᠢᠰ ᠬᠣᠷᠢᠶ᠎ᠠ ᠣᠳᠣ ᠶᠠᠮᠠᠷ ᠡᠬᠡ ᠬᠠᠭᠤᠷᠠᠢ᠎ᠶ᠋ᠢᠨ ᠺᠠᠷᠲ᠋ᠣᠨ᠎ᠤ᠋ ᠦᠵᠡᠭᠦᠯᠦᠭᠡ ᠬᠢᠵᠦ ᠪᠠᠢᠨ᠎ᠠ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "area": "ᠪᠠᠢᠨ᠎ᠠ ᠪᠣᠢ",
+            "category": "ᠲᠧᠯᠸᠢᠰ",
+            "datetime_time": "ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ ᠣᠷᠣᠢ ᠬᠤᠨᠠᠨ ᠲᠧᠯᠸᠢᠰ ᠶᠠᠮᠠᠷ ᠲᠧᠯᠸᠢᠰ ᠵᠦᠴᠦᠭᠡ ᠲᠣᠭᠯᠠᠬᠤ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "category": "ᠲᠧᠯᠸᠢᠰ ᠵᠦᠴᠦᠭᠡ",
+            "datetime_date": "ᠮᠠᠷᠭᠠᠰᠢ",
+            "datetime_time": "ᠵᠦᠴᠦᠭᠡ ᠲᠣᠭᠯᠠᠬᠤ",
+            "tvchannel": "ᠬᠤᠨᠠᠨ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠥᠴᠥᠭᠡᠳᠦᠷ ᠣᠷᠣᠢ᠎ᠶ᠋ᠢᠨ ᠤᠴᠢᠷ᠎ᠢ᠋ ᠪᠢ ᠥᠨᠥᠳᠥᠷ ᠠᠩᠬᠠᠷᠴᠤ ᠪᠠᠢᠭᠰᠠᠨ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "datetime_date": "ᠥᠨᠥᠳᠥᠷ",
+            "datetime_time": "ᠣᠷᠣᠢ᠎ᠶ᠋ᠢᠨ ᠤᠴᠢᠷ᠎ᠢ᠋",
+            "name": "ᠪᠢ ᠥᠨᠥᠳᠥᠷ ᠠᠩᠬᠠᠷᠴᠤ"
+        }
+    },
+    {
+        "text": "ᠪᠡᠭᠡᠵᠢᠩ ᠲᠧᠯᠸᠢᠰ ᠳᠡᠭᠡᠷ᠎ᠡ ᠶᠠᠮᠠᠷ ᠰᠠᠢᠨ ᠪᠠᠢᠨ᠎ᠠ ᠪᠣᠢ",
+        "domain": "epg",
+        "intent": "QUERY",
+        "slots": {
+            "tvchannel": "ᠪᠡᠭᠡᠵᠢᠩ ᠲᠧᠯᠸᠢᠰ"
+        }
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠭᠠᠷᠠᠭ᠎ᠤ᠋ᠨ ᠰᠡᠭᠦᠯᠴᠢ᠎ᠶ᠋ᠢᠨ ᠥᠷᠯᠥᠭᠡ᠎ᠶ᠋ᠢᠨ 8 ᠴᠠᠭ᠎ᠤ᠋ᠨ ᠬᠤᠨᠠᠨ᠎ᠤ᠋ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ᠎ᠢ᠋ ᠦᠵᠡ",
+        "domain": "epg",
+        "intent": "LOOK_BACK",
+        "slots": {
+            "datetime_date": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠭᠠᠷᠠᠭ᠎ᠤ᠋ᠨ ᠰᠡᠭᠦᠯᠴᠢ᠎ᠶ᠋ᠢᠨ",
+            "datetime_time": "ᠰᠡᠭᠦᠯᠴᠢ᠎ᠶ᠋ᠢᠨ ᠥᠷᠯᠥᠭᠡ᠎ᠶ᠋ᠢᠨ 8",
+            "tvchannel": "ᠬᠤᠨᠠᠨ᠎ᠤ᠋ ᠣᠳᠣᠨ ᠲᠧᠯᠸᠢᠰ᠎ᠢ᠋"
+        }
+    },
+    {
+        "text": "ᠵᠢᠨᠠᠨ᠎ᠠ᠋ᠴᠠ ᠴᠦᠩᠴᠢᠩᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠨᠢᠰᠬᠡᠯ",
+            "startLoc_city": "ᠵᠢᠨᠠᠨ᠎ᠠ᠋ᠴᠠ"
+        }
+    },
+    {
+        "text": "ᠰᠢᠶᠠᠮᠧᠨ᠎ᠡᠴᠡ ᠱᠠᠩᠬᠠᠢ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠱᠠᠩᠬᠠᠢ",
+            "startLoc_city": "ᠰᠢᠶᠠᠮᠧᠨ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ᠎ᠶ᠋ᠢᠨ ᠭᠤᠸᠠᠩᠵᠸᠤ᠎ᠠ᠋ᠴᠠ ᠦᠬᠠᠨ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠰᠤᠷᠠᠭᠯᠠ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠦᠬᠠᠨ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ᠎ᠶ᠋ᠢᠨ",
+            "startLoc_city": "ᠭᠤᠸᠠᠩᠵᠸᠤ᠎ᠠ᠋ᠴᠠ"
+        }
+    },
+    {
+        "text": "ᠬᠠᠩᠵᠧᠦ᠎ᠡᠴᠡ ᠱᠠᠩᠬᠠᠢ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ ᠵᠠᠬᠢᠶᠠᠯᠠᠭᠠᠳ ᠠᠯᠢ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠱᠠᠩᠬᠠᠢ᠎ᠳ᠋ᠤ᠌",
+            "startLoc_city": "ᠬᠠᠩᠵᠧᠦ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠾᠧᠹᠧᠢ᠎ᠡᠴᠡ ᠪᠡᠭᠡᠵᠢᠩ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠡᠷᠢᠬᠦ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠪᠡᠭᠡᠵᠢᠩ",
+            "startLoc_city": "ᠾᠧᠹᠧᠢ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ ᠭᠤᠸᠠᠩᠵᠧᠦ᠎ᠳ᠋ᠦ᠍ ᠬᠠᠷᠢᠬᠤ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠭᠤᠸᠠᠩᠵᠧᠦ᠎ᠳ᠋ᠦ᠍ ᠬᠠᠷᠢᠬᠤ",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ"
+        }
+    },
+    {
+        "text": "ᠨᠠᠢ᠍ᠮᠠᠨ ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ ᠠᠷᠪᠠᠨ᠎ᠤ᠋ ᠴᠦᠩᠴᠢᠩ᠎ᠡᠴᠡ ᠦᠬᠠᠨ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠦᠬᠠᠨ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ",
+            "startDate_date": "ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ ᠠᠷᠪᠠᠨ᠎ᠤ᠋ ᠴᠦᠩᠴᠢᠩ᠎ᠡᠴᠡ",
+            "startLoc_city": "ᠨᠢᠰᠬᠡᠯ"
+        }
+    },
+    {
+        "text": "ᠵᠢᠨᠠᠨ᠎ᠠ᠋ᠴᠠ ᠬᠠᠨ ᠵᠦᠩ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠬᠠᠨ",
+            "startLoc_city": "ᠵᠢᠨᠠᠨ᠎ᠠ᠋ᠴᠠ"
+        }
+    },
+    {
+        "text": "ᠳᠠᠨᠵᠧᠦ᠎ᠡᠴᠡ ᠬᠠᠶᠢᠺᠧᠦ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢ᠎ᠶ᠋ᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠬᠠᠶᠢᠺᠧᠦ",
+            "startLoc_area": "ᠬᠦᠷᠬᠦ"
+        }
+    },
+    {
+        "text": "ᠭᠤᠸᠠᠩᠵᠧᠦ᠎ᠡᠴᠡ ᠨᠠᠨᠨᠢᠩ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠨᠠᠨᠨᠢᠩ",
+            "startLoc_city": "ᠭᠤᠸᠠᠩᠵᠧᠦ᠎ᠡᠴᠡ ᠨᠠᠨᠨᠢᠩ"
+        }
+    },
+    {
+        "text": "ᠰᠢᠶᠠᠣ ᠮᠸᠨ᠎ᠡᠴᠡ ᠡᠦ ᠢ ᠱᠠᠨ ᠠᠭᠤᠯᠠ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠰᠤᠷᠠᠭᠯᠠᠪᠠ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_area": "ᠡᠦ ᠢ ᠱᠠᠨ",
+            "startLoc_city": "ᠡᠦ ᠢ"
+        }
+    },
+    {
+        "text": "ᠨᠠᠨᠵᠢᠩ᠎ᠠ᠋ᠴᠠ ᠱᠠᠩᠬᠠᠢ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠪᠠᠢᠴᠠᠭ᠎ᠠ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠱᠠᠩᠬᠠᠢ",
+            "startLoc_city": "ᠨᠠᠨᠵᠢᠩ᠎ᠠ᠋ᠴᠠ ᠱᠠᠩᠬᠠᠢ"
+        }
+    },
+    {
+        "text": "ᠥᠨᠥᠳᠥᠷ᠎ᠦ᠋ᠨ ᠴᠧᠩᠳᠦ᠎ᠡᠴᠡ ᠪᠡᠭᠡᠵᠢᠩ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠪᠠᠢᠴᠠᠭ᠎ᠠ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠪᠡᠭᠡᠵᠢᠩ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ",
+            "startDate_date": "ᠥᠨᠥᠳᠥᠷ᠎ᠦ᠋ᠨ ᠴᠧᠩᠳᠦ᠎ᠡᠴᠡ",
+            "startLoc_city": "ᠴᠧᠩᠳᠦ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ ᠵᠦᠬᠠᠶ᠎ᠠ᠋ᠴᠠ ᠴᠢᠩ ᠳ᠋ᠣᠣ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠴᠢᠩ",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ",
+            "startLoc_city": "ᠵᠦᠬᠠᠶ᠎ᠠ᠋ᠴᠠ ᠴᠢᠩ"
+        }
+    },
+    {
+        "text": "ᠨᠠᠨᠴᠠᠩ᠎ᠠ᠋ᠴᠠ ᠭᠤᠸᠠᠩᠵᠧᠦ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠭᠤᠸᠠᠩᠵᠧᠦ",
+            "startLoc_city": "ᠨᠠᠨᠴᠠᠩ᠎ᠠ᠋ᠴᠠ"
+        }
+    },
+    {
+        "text": "ᠨᠥᠭᠥᠭᠡᠳᠦᠷ ᠯᠣᠨᠳᠣᠨ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠯᠠᠪᠯᠠᠬᠤ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠯᠠᠪᠯᠠᠬᠤ",
+            "startDate_date": "ᠨᠥᠭᠥᠭᠡᠳᠦᠷ",
+            "startLoc_city": "ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ ᠭᠦᠢᠯᠢᠨ᠎ᠳ᠋ᠦ᠍ ᠣᠴᠢᠬᠤ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠭᠦᠢᠯᠢᠨ᠎ᠳ᠋ᠦ᠍ ᠣᠴᠢᠬᠤ",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ"
+        }
+    },
+    {
+        "text": "7 ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ 30᠎ᠳ᠋ᠤ᠌ ᠱᠸᠨᠵᠸᠨ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢ᠎ᠶ᠋ᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠡᠭᠡᠯᠵᠢ᠎ᠶ᠋ᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+            "startDate_date": "7 ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ 30᠎ᠳ᠋ᠤ᠌ ᠱᠸᠨᠵᠸᠨ᠎ᠳ᠋ᠦ᠍"
+        }
+    },
+    {
+        "text": "ᠨᠠᠨᠵᠢᠩ᠎ᠠ᠋ᠴᠠ ᠴᠧᠩᠳᠦ᠋ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠴᠧᠩᠳᠦ᠋",
+            "startLoc_city": "ᠨᠠᠨᠵᠢᠩ᠎ᠠ᠋ᠴᠠ ᠴᠧᠩᠳᠦ᠋"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ ᠨᠠᠨᠴᠠᠩ᠎ᠳ᠋ᠤ᠌ ᠣᠴᠢᠬᠤ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠨᠠᠨᠴᠠᠩ᠎ᠳ᠋ᠤ᠌ ᠣᠴᠢᠬᠤ",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ᠎ᠶ᠋ᠢᠨ ᠾᠧᠹᠧᠢ᠎ᠶ᠋ᠢᠨ ᠪᠡᠭᠡᠵᠢᠩ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠪᠠᠢᠴᠠᠭᠠᠷᠠᠢ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠪᠡᠭᠡᠵᠢᠩ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ᠎ᠶ᠋ᠢᠨ",
+            "startLoc_city": "ᠾᠧᠹᠧᠢ᠎ᠶ᠋ᠢᠨ"
+        }
+    },
+    {
+        "text": "7 ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ 25᠎ᠤ᠋ ᠡᠳᠦᠷ ᠱᠠᠩᠬᠠᠢ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠱᠠᠩᠬᠠᠢ᠎ᠳ᠋ᠤ᠌",
+            "startDate_date": "7 ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ 25᠎ᠤ᠋"
+        }
+    },
+    {
+        "text": "ᠪᠡᠭᠡᠵᠢᠩ᠎ᠳ᠋ᠦ᠍ ᠶᠠᠮᠠᠷ ᠶᠠᠮᠠᠷ ᠨᠢᠰᠬᠡᠯ ᠪᠠᠢᠨ᠎ᠠ ᠪᠣᠢ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠪᠡᠭᠡᠵᠢᠩ᠎ᠳ᠋ᠦ᠍ ᠶᠠᠮᠠᠷ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ ᠴᠠᠩᠱᠠ᠎ᠠ᠋ᠴᠠ ᠱᠠᠩᠬᠠᠢ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠱᠠᠩᠬᠠᠢ᠎ᠳ᠋ᠤ᠌",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ",
+            "startLoc_city": "ᠨᠢᠰᠬᠡᠯ"
+        }
+    },
+    {
+        "text": "ᠳ᠋ᠠᠯᠢᠶᠠᠨ᠎ᠤ᠋ ᠱᠠᠩᠬᠠᠢ ᠬᠦᠷᠬᠦ ᠡᠭᠡᠯᠵᠢ᠎ᠶ᠋ᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠱᠠᠩᠬᠠᠢ",
+            "startLoc_city": "ᠳ᠋ᠠᠯᠢᠶᠠᠨ᠎ᠤ᠋"
+        }
+    },
+    {
+        "text": "ᠸᠧᠢ ᠬᠠᠢ᠎ᠠ᠋ᠴᠠ ᠰᠦᠵᠧᠦ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠰᠦᠵᠧᠦ",
+            "startLoc_city": "ᠸᠧᠢ ᠬᠠᠢ᠎ᠠ᠋ᠴᠠ"
+        }
+    },
+    {
+        "text": "ᠴᠢᠩᠲᠤᠤ ᠭᠤᠸᠠᠩᠵᠧᠦ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠭᠤᠸᠠᠩᠵᠧᠦ",
+            "startLoc_city": "ᠴᠢᠩᠲᠤᠤ"
+        }
+    },
+    {
+        "text": "ᠵᠦᠵᠸᠦ᠎ᠡᠴᠡ ᠱᠸᠨᠵᠸᠨ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ ᠵᠠᠬᠢᠶᠠᠯᠠᠭᠠᠳ ᠥᠭ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠵᠦᠵᠸᠦ᠎ᠡᠴᠡ",
+            "startLoc_city": "ᠵᠦᠵᠸᠦ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠦᠬᠠᠨ᠎ᠠ᠋ᠴᠠ ᠨᠠᠨᠵᠢᠩ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ᠎ᠢ᠋ ᠬᠠᠢᠬᠤ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠨᠠᠨᠵᠢᠩ",
+            "startLoc_city": "ᠦᠬᠠᠨ᠎ᠠ᠋ᠴᠠ ᠨᠠᠨᠵᠢᠩ"
+        }
+    },
+    {
+        "text": "ᠱᠠᠩᠬᠠᠢ᠎ᠠ᠋ᠴᠠ ᠪᠡᠭᠡᠵᠢᠩ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠪᠡᠭᠡᠵᠢᠩ",
+            "startLoc_city": "ᠱᠠᠩᠬᠠᠢ᠎ᠠ᠋ᠴᠠ"
+        }
+    },
+    {
+        "text": "ᠬᠠᠩᠵᠧᠦ᠎ᠡᠴᠡ ᠴᠠᠩᠴᠦ᠋ᠨ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠡᠭᠡᠯᠵᠢ᠎ᠶ᠋ᠢ ᠪᠠᠢᠴᠠᠭᠠᠵᠤ ᠦᠵᠡ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠴᠠᠩᠴᠦ᠋ᠨ᠎ᠳ᠋ᠦ᠍ ᠬᠦᠷᠬᠦ",
+            "startLoc_city": "ᠬᠠᠩᠵᠧᠦ᠎ᠡᠴᠡ"
+        }
+    },
+    {
+        "text": "ᠣᠣᠮᠸᠠ᠎ᠠ᠋ᠴᠠ ᠺᠤᠸᠠᠯᠠ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠪᠠᠢᠴᠠᠭᠠᠵᠤ ᠦᠵᠡ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠣᠣᠮᠸᠠ᠎ᠠ᠋ᠴᠠ",
+            "startLoc_city": "ᠣᠣᠮᠸᠠ᠎ᠠ᠋ᠴᠠ"
+        }
+    },
+    {
+        "text": "ᠨᠥᠭᠥᠭᠡᠳᠦᠷ ᠦᠬᠠᠨ᠎ᠳ᠋ᠤ᠌ ᠣᠴᠢᠬᠤ ᠡᠭᠡᠯᠵᠢᠨ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠦᠬᠠᠨ᠎ᠳ᠋ᠤ᠌ ᠣᠴᠢᠬᠤ",
+            "startDate_date": "ᠨᠥᠭᠥᠭᠡᠳᠦᠷ"
+        }
+    },
+    {
+        "text": "4 ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ ᠨᠢᠭᠡᠨ᠎ᠡᠴᠡ ᠭᠤᠸᠠᠩᠵᠧᠦ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠯᠠᠪᠯᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠭᠤᠸᠠᠩᠵᠧᠦ",
+            "startDate_date": "4 ᠰᠠᠷ᠎ᠠ᠎ᠶ᠋ᠢᠨ ᠨᠢᠭᠡᠨ᠎ᠡᠴᠡ",
+            "startLoc_city": "ᠯᠠᠪᠯᠠᠵᠤ"
+        }
+    },
+    {
+        "text": "ᠱᠠᠩᠬᠠᠢ᠎ᠠ᠋ᠴᠠ ᠴᠢᠩᠲᠤᠤ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠦ᠋ᠨ ᠪᠢᠯᠧᠲ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠴᠢᠩᠲᠤᠤ",
+            "startLoc_city": "ᠱᠠᠩᠬᠠᠢ᠎ᠠ᠋ᠴᠠ ᠴᠢᠩᠲᠤᠤ"
+        }
+    },
+    {
+        "text": "ᠭᠤᠸᠩᠵᠸᠦ᠎ᠡᠴᠡ ᠴᠠᠩᠱᠠ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ᠎ᠢ᠋ ᠪᠠᠢᠴᠠᠭᠠᠯᠭᠠᠶ᠎ᠠ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠴᠠᠩᠱᠠ",
+            "startLoc_city": "ᠭᠤᠸᠩᠵᠸᠦ᠎ᠡᠴᠡ ᠴᠠᠩᠱᠠ"
+        }
+    },
+    {
+        "text": "ᠮᠠᠷᠭᠠᠰᠢ ᠱᠸᠨᠵᠸᠨ᠎ᠳ᠋ᠦ᠍ ᠣᠴᠢᠬᠤ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠨᠢᠰᠬᠡᠯ",
+            "startDate_date": "ᠮᠠᠷᠭᠠᠰᠢ"
+        }
+    },
+    {
+        "text": "ᠭᠦᠢᠶᠠᠩ᠎ᠤ᠋ᠨ ᠬᠠᠷᠪᠢᠨ᠎ᠳ᠋ᠤ᠌ ᠬᠦᠷᠬᠦ ᠨᠢᠰᠬᠡᠯ",
+        "domain": "flight",
+        "intent": "QUERY",
+        "slots": {
+            "endLoc_city": "ᠬᠠᠷᠪᠢᠨ᠎ᠳ᠋ᠤ᠌",
+            "startLoc_city": "ᠭᠦᠢᠶᠠᠩ᠎ᠤ᠋ᠨ"
+        }
+    },
+    {
+        "text": "ᠢᠨᠲ᠋ᠧᠷᠨ᠋ᠧᠲ᠋ ᠨᠡᠭᠡᠭᠡᠭᠰᠡᠨ",
+        "domain": "website",
+        "intent": "OPEN",
+        "slots": {}
+    },
+    {
+        "text": "ᠱᠠᠩ ᠮᠧᠢ ᠺᠦᠩ ᠰᠦᠯᠵᠢᠶ᠎ᠡ",
+        "domain": "website",
+        "intent": "OPEN",
+        "slots": {
+            "name": "ᠮᠧᠢ ᠺᠦᠩ ᠰᠦᠯᠵᠢᠶ᠎ᠡ"
+        }
+    },
+    {
+        "text": "ᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ᠎ᠤ᠋ᠨ ᠰᠣᠨᠢᠨ ᠮᠡᠳᠡᠭᠡᠨ᠎ᠦ᠌ ᠰᠦᠯᠵᠢᠶᠡᠨ᠎ᠦ᠌ ᠥᠷᠲᠡᠭᠡ",
+        "domain": "website",
+        "intent": "OPEN",
+        "slots": {
+            "name": "ᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ᠎ᠤ᠋ᠨ ᠰᠣᠨᠢᠨ ᠮᠡᠳᠡᠭᠡᠨ᠎ᠦ᠌"
+        }
+    },
+    {
+        "text": "ᠪᠢ ᠰᠦᠯᠵᠢᠶᠡᠨ ᠳᠡᠭᠡᠷ᠎ᠡ ᠭᠠᠷᠴᠤ ᠪᠠᠢ᠎ᠳ᠋ᠤ᠌᠎ᠶ᠋ᠢᠨ ᠬᠣᠲᠠ᠎ᠶ᠋ᠢ ᠨᠡᠭᠡᠭᠡᠨ᠎ᠡ",
+        "domain": "website",
+        "intent": "OPEN",
+        "slots": {
+            "name": "ᠰᠦᠯᠵᠢᠶᠡᠨ ᠳᠡᠭᠡᠷ᠎ᠡ"
+        }
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠠᠶᠠᠰ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠠᠶᠠᠰ᠎ᠢ᠋ ᠲᠠᠯᠪᠢᠬᠤ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠮᠦᠨᠡᠬᠢ ᠨᠢᠭᠡ ᠮᠥᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠶᠠᠰ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠶ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠂ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠤᠴᠠᠬᠤ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠬᠠᠭᠠᠬᠤ ᠂ ᠬᠠᠭᠠᠬᠤ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠂ ᠪᠢ ᠶᠠᠪᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠣᠯᠤᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠡᠭᠡ ᠂ ᠪᠢ ᠶᠠᠪᠤᠬᠤ ᠴᠢᠬᠤᠯᠠᠲᠠᠢ ᠪᠣᠯᠵᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠲᠡᠭᠦᠰᠬᠡᠨ᠎ᠡ ᠂ ᠲᠠᠯᠠᠷᠬᠠᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠣᠭᠰᠣᠬᠤ ᠴᠢᠬᠤᠯᠠ᠎ᠲᠠᠢ ᠪᠣᠯᠵᠠᠢ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ ᠮᠠᠰᠢ ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠶᠠᠪᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠣᠯᠵᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠬᠠᠭᠠᠬᠤ ᠴᠢᠬᠤᠯᠠᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠦᠨᠡᠬᠡᠷ ᠨᠢᠭᠡᠨ ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠶᠠᠪᠤᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠣᠩ ᠲᠠᠯᠠᠷᠬᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠪᠢ ᠣᠳᠣ ᠶᠠᠪᠤᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠡᠷᠬᠡᠪᠰᠢ ᠳᠠᠭᠤᠰᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠤ᠋ ᠴᠠᠭ᠎ᠲᠤ᠌ ᠲᠠᠯᠠᠷᠬᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠪᠢ ᠣᠳᠣ ᠶᠠᠪᠤᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠣᠳᠣ ᠪᠢ ᠶᠠᠪᠤᠬᠤ ᠴᠢᠬᠤᠯᠠ᠎ᠲᠠᠢ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠲᠠᠢ ᠵᠣᠭᠣᠭᠳᠠᠭᠰᠠᠨ᠎ᠳ᠋ᠠᠭᠠᠨ ᠶᠡᠬᠡ ᠪᠠᠶᠠᠷᠯᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠲᠡᠭᠦᠰᠬᠦ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠤ᠋ ᠬᠠᠪᠰᠤᠷᠤᠯᠭ᠎ᠠ᠎ᠳ᠋ᠤ᠌ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠂ ᠪᠢ ᠣᠳᠣ ᠶᠠᠪᠤᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠣᠳᠣ ᠤᠬᠤᠷᠢᠵᠤ ᠭᠠᠷᠤᠶ᠎ᠠ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠣᠩ ᠣᠰᠣᠯᠳᠠᠯ᠎ᠠ ᠂ ᠪᠢ ᠡᠷᠬᠡᠪᠰᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠳᠠᠭᠤᠰᠬᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠶᠠᠪᠤᠬᠤ ᠴᠢᠬᠤᠯᠠ᠎ᠲᠠᠢ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ ᠮᠠᠰᠢ ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠬᠠᠭᠠᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠠᠶᠠᠷᠲᠠᠢ ᠂ ᠪᠢ ᠡᠷᠬᠡᠪᠰᠢ ᠰᠠᠯᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠣᠯᠵᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠶ᠋ᠢ ᠲᠡᠭᠦᠰᠬᠡᠬᠦ᠎ᠶ᠋ᠢ ᠬᠦᠰᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠲᠠᠯᠠᠷᠬᠠᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠤ᠋ ᠴᠠᠭ᠎ᠲᠤ᠌ ᠲᠠᠯᠠᠷᠬᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠪᠢ ᠣᠳᠣ ᠵᠣᠭᠰᠣᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠦᠨᠡᠬᠡᠷ ᠨᠢᠭᠡᠨ ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠶᠠᠪᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠣᠯᠵᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠡᠭᠡ ᠂ ᠪᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠲᠡᠭᠦᠰᠬᠡᠶ᠎ᠡ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠶᠠᠪᠤᠯ᠎ᠠ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠣᠩ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠣᠳᠣ ᠶᠠᠪᠤᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠤ᠋ ᠬᠠᠪᠰᠤᠷᠤᠯᠭ᠎ᠠ᠎ᠳ᠋ᠤ᠌ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠂ ᠪᠢ ᠶᠠᠪᠤᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠢ ᠂ ᠪᠢ ᠡᠷᠬᠡᠪᠰᠢ ᠳᠠᠭᠤᠰᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠬᠠᠭᠠᠬᠤ ᠴᠢᠬᠤᠯᠠᠲᠠᠢ ᠂ ᠲᠠᠯᠠᠷᠬᠠᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠣᠳᠣ ᠪᠢ ᠡᠷᠬᠡᠪᠰᠢ ᠰᠠᠯᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠲᠠᠢ ᠶᠠᠷᠢᠯᠴᠠᠭᠰᠠᠨ᠎ᠳ᠋ᠠᠭᠠᠨ ᠲᠣᠩ ᠪᠠᠶᠠᠷᠯᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠲᠡᠭᠦᠰᠬᠦ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠣᠳᠣ ᠶᠠᠪᠤᠨ᠎ᠠ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ ᠮᠠᠰᠢ ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠲᠡᠭᠦᠰᠬᠦ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠠᠶᠠᠷᠲᠠᠢ ᠂ ᠪᠢ ᠡᠷᠬᠡᠪᠰᠢ ᠶᠠᠪᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠣᠯᠵᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠣᠭᠰᠣᠭᠠᠬᠤ ᠴᠢᠬᠤᠯᠠᠲᠠᠢ ᠪᠣᠯᠤᠯ᠎ᠠ ᠂ ᠲᠠᠯᠠᠷᠬᠠᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠲᠡᠭᠦᠰᠬᠡᠨ᠎ᠡ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠤ᠋ ᠴᠠᠭ᠎ᠲᠤ᠌ ᠲᠠᠯᠠᠷᠬᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠪᠢ ᠣᠳᠣ ᠶᠠᠪᠤᠨ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠢ ᠂ ᠪᠢ ᠣᠳᠣ ᠡᠷᠬᠡᠪᠰᠢ ᠶᠠᠪᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠪᠣᠯᠵᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠ ᠂ ᠪᠢ ᠶᠠᠪᠤᠯ᠎ᠠ ᠂ ᠪᠠᠶᠠᠷᠲᠠᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠠᠨ᠎ᠤ᠋ ᠲᠡᠰᠪᠦᠷᠢ ᠲᠡᠪᠴᠢᠶᠡᠷᠢ᠎ᠳ᠋ᠦ᠍ ᠲᠠᠯᠠᠷᠬᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠲᠡᠭᠦᠰᠬᠡᠨ᠎ᠡ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠣᠳᠣ ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ᠎ᠪᠠᠨ ᠬᠠᠭᠠᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠲᠠᠯᠠᠷᠬᠠᠯ᠎ᠠ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ ᠮᠠᠰᠢ ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢ ᠡᠷᠬᠡᠪᠰᠢ ᠶᠠᠪᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "exit",
+        "intent": "exit",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠠᠶᠠᠰ᠎ᠢ᠋ ᠳᠡᠯᠪᠢ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠴᠢ᠎ᠶ᠋ᠢᠨ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠳᠠᠭᠤᠤ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠳᠡᠭᠡᠷ᠎ᠡ ᠦᠰᠦᠷᠦᠨ ᠬᠦᠷᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠰᠦᠷᠦᠨ ᠭᠠᠷᠴᠠᠢ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠴᠢ᠎ᠶ᠋ᠢᠨ ᠳᠠᠭᠤᠤ᠎ᠳ᠋ᠤ᠌ ᠦᠰᠦᠷᠦᠨ ᠬᠦᠷᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠴᠢ᠎ᠶ᠋ᠢᠨ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠨᠢᠭᠡ ᠪᠠᠳᠠᠭ ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠭᠦᠯ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠠᠪᠤᠶ᠎ᠠ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠠᠶ᠎ᠠ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠠᠪᠤᠶ᠎ᠠ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠨᠢᠭᠡ ᠪᠠᠳᠠᠭ ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠳᠠᠭᠤᠤ ᠳᠠᠭᠤᠯᠠᠶ᠎ᠠ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠳᠠᠭᠤᠨ᠎ᠤ᠋ ᠵᠠᠮ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠳᠠᠭᠤᠯᠠᠶ᠎ᠠ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠦᠷᠲᠡᠯ᠎ᠡ ᠦᠰᠦᠷᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠠᠶ᠎ᠠ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "next",
+        "intent": "next",
+        "slots": {}
+    },
+    {
+        "text": "ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠭᠦᠯᠦᠨ᠎ᠡ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠬᠥᠭᠵᠢᠮᠳᠡᠨ᠎ᠡ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠨᠢᠭᠡ ᠪᠠᠳᠠᠭ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠳᠠᠭᠤᠤ ᠲᠠᠯᠪᠢᠵᠤ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠴᠢ᠎ᠶ᠋ᠢᠨ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠳᠠᠭᠤᠤ ᠳᠠᠭᠤᠯᠠᠯ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠴᠢ᠎ᠶ᠋ᠢᠨ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠴᠢ᠎ᠶ᠋ᠢᠨ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭᠠᠴᠢ᠎ᠶ᠋ᠢᠨ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ᠎ᠢ᠋ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠠᠯᠭᠠᠭᠠᠳ ᠠᠶ᠎ᠠ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠷᠠᠭ᠎ᠠ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠤᠨ᠎ᠠ",
+        "domain": "goon",
+        "intent": "goon",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠨᠢᠭᠡ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠮᠦᠨᠡᠬᠢ ᠳᠠᠭᠤᠤ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠨᠢᠭᠡ ᠪᠠᠳᠠᠭ ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠨᠢᠭᠡ ᠨᠤᠭᠤᠯᠤᠭ᠎ᠠ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠲᠦᠷᠦᠭᠦᠦ ᠪᠠᠳᠠᠭ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠮᠦᠨᠡᠬᠢ ᠳᠠᠭᠤᠤ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠮᠦᠨᠡᠬᠢ ᠳᠠᠭᠤᠤ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠠᠢᠨ᠎ᠠ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠶᠠᠰ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷᠡᠬᠢ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠮᠦᠨᠡᠬᠢ ᠳᠠᠭᠤᠤ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠶᠠᠰ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠡᠭᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠠᠤᠢᠳ᠋ᠢᠤ᠋ ᠵᠠᠮ",
+        "domain": "up",
+        "intent": "up",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠳᠦᠷᠢ ᠵᠣᠭᠰᠣᠭᠠᠴᠠᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠶᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠬᠤ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠵᠣᠭᠰᠣᠭᠠᠴᠠᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠳᠦᠷᠢ ᠵᠣᠭᠰᠣᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠵᠣᠭᠰᠣᠭᠠᠴᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠵᠤ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠶ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤ᠎ᠪᠠᠨ ᠵᠣᠭᠰᠣᠭᠠᠷᠠᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠵᠣᠭᠰᠣᠭ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠠᠶ᠎ᠠ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠤᠭᠠᠶ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠵᠣᠭᠰᠣᠭ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠪᠡᠨ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠳᠦᠷᠢ ᠵᠣᠭᠰᠣᠭᠠᠴᠠᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠲᠠᠯᠪᠢᠵᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠵᠣᠭᠰᠣᠭ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠵᠣᠭᠰᠣᠭᠠᠵᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠷᠠᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠲᠠᠯᠪᠢᠵᠤ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠷᠠᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠪᠡᠨ ᠵᠣᠭᠰᠣᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠶ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ᠎ᠪᠡᠨ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠨ᠎ᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠬᠥᠭᠵᠢᠮ᠎ᠢ᠋ ᠵᠣᠭᠰᠣ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠦ᠋ᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠪᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ᠎ᠦ᠋ᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠭᠡ᠎ᠶ᠋ᠢ ᠲᠦᠷ ᠵᠣᠭᠰᠣᠭᠠᠪᠠ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠡᠨᠡ ᠳᠠᠭᠤᠤ᠎ᠶ᠋ᠢ ᠵᠣᠭᠰᠣᠭᠠᠷᠠᠢ",
+        "domain": "stop",
+        "intent": "stop",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠢᠷᠤᠭᠲᠤ ᠨᠣᠮ ᠲᠠᠯᠪᠢᠬᠤ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠮᠢᠨᠦ ᠦᠵᠡᠬᠦ ᠭᠡᠵᠦ ᠪᠠᠢᠭ᠎ᠠ ᠵᠢᠷᠤᠭ᠎ᠤ᠋ᠨ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠬᠥᠭᠡᠷᠦᠬᠦᠨ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠭᠣᠶᠣ ᠰᠠᠢᠬᠠᠨ ᠵᠢᠷᠤᠭᠲᠤ ᠨᠣᠮ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠤᠷᠠᠨ ᠵᠢᠷᠤᠭ᠎ᠤ᠋ᠨ ᠦᠯᠢᠭᠡᠷ ᠲᠠᠯᠪᠢᠵᠤ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠨ᠎ᠡ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠰᠣᠩᠭᠣᠳᠠᠭ ᠵᠢᠷᠤᠭ᠎ᠤ᠋ᠨ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠬᠥᠭᠡᠷᠦᠬᠦᠨ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠨᠠᠷᠢᠯᠢᠭ ᠰᠠᠢᠬᠠᠨ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠦ᠋ᠨ ᠳᠦᠷᠰᠦ ᠰᠢᠩᠭᠡᠭᠡᠯᠲᠡ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠭᠣᠶᠣ ᠰᠠᠢᠬᠠᠨ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠨ᠎ᠡ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠰᠢᠯᠢᠳᠡᠭ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠮᠢᠨᠦ ᠳᠤᠷᠠᠲᠠᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠵᠢᠷᠤᠭ ᠵᠢᠷᠤᠭᠰᠠᠨ ᠦᠯᠢᠭᠡᠷ ᠲᠠᠯᠪᠢᠵᠤ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠰᠣᠩᠭᠣᠳᠠᠭ ᠵᠢᠷᠤᠭ᠎ᠤ᠋ᠨ ᠦᠯᠢᠭᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠭᠣᠶᠣ ᠰᠠᠢᠬᠠᠨ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠦ᠋ᠨ ᠸᠢᠳᠢᠣ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠰᠣᠨᠢᠷᠬᠠᠯᠲᠠᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠨ᠎ᠡ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠰᠢᠯᠢᠳᠡᠭ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠮᠢᠨᠦ ᠳᠤᠷᠠᠲᠠᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠮᠢᠨᠦ ᠦᠵᠡᠬᠦ ᠭᠡᠵᠦ ᠪᠠᠢᠭ᠎ᠠ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠸᠢᠳᠢᠣ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠮᠢᠨᠦ ᠳᠤᠷᠠᠲᠠᠢ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠦ᠋ᠨ ᠸᠢᠳᠢᠣ᠎ᠶ᠋ᠢ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠦᠶ᠎ᠡ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠮᠢᠨᠦ ᠦᠵᠡᠶ᠎ᠡ ᠭᠡᠵᠦ ᠪᠣᠳᠣᠵᠤ ᠪᠠᠢᠭ᠎ᠠ ᠤᠷᠠᠨ ᠵᠢᠷᠤᠭ᠎ᠤ᠋ᠨ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ᠶ᠋ᠡᠨ ᠨᠡᠪᠲᠡᠷᠡᠭᠦᠯᠬᠦ ᠪᠣᠯᠪᠠᠤ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    },
+    {
+        "text": "ᠪᠢ ᠰᠣᠩᠭᠣᠳᠠᠭ ᠵᠢᠷᠤᠭᠲᠤ ᠳᠡᠪᠲᠡᠷ᠎ᠢ᠋ ᠦᠵᠡᠬᠦ ᠰᠠᠨᠠᠭ᠎ᠠ᠎ᠲᠠᠢ",
+        "domain": "picturebook",
+        "intent": "picturebook",
+        "slots": {}
+    }
+
+
+]
